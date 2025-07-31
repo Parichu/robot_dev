@@ -38,7 +38,7 @@ MakeWayBot ROS2 is a project designed for robotic applications using ROS2 Humble
 
 2. Clone the `make_way_bot_ros2` repository:
     ```bash
-    git clone --depth 1 --branch DEV-Machine https://github.com/reaper1947/make_way_bot_ros2.git .
+    git clone --depth 1 --branch DEV-Machine https://github.com/Parichu/robot_dev.git .
     ```
 
 3. Build the workspace:
@@ -57,7 +57,7 @@ MakeWayBot ROS2 is a project designed for robotic applications using ROS2 Humble
 
 2. Clone the required repositories:
     ```bash
-    git clone --depth 1 --branch ROBOT-Machine https://github.com/reaper1947/make_way_bot_ros2.git .
+    git clone --depth 1 --branch ROBOT-Machine https://github.com/Parichu/robot_dev.git .
     git clone https://github.com/reaper1947/ros_arduino_bridge.git
     git clone https://github.com/Slamtec/sllidar_ros2.git
     ```
